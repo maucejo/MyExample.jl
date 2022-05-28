@@ -1,8 +1,8 @@
 module MyExample
 
-export my_f
+export my_f, greet
 
-greet() = println("Hello World!")
+greet() = "Hello World!"
 
 include("extra_file.jl")
 
