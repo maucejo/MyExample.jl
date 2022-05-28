@@ -3,6 +3,9 @@ uuid = "94f6744b-21f0-4da5-860c-78f679f99ae7"
 authors = ["Mathieu Aucejo <mathieu.aucejo@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
 [compat]
 julia = "1.7"
 
