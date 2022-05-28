@@ -1,0 +1,13 @@
+name = "MyExample"
+uuid = "94f6744b-21f0-4da5-860c-78f679f99ae7"
+authors = ["Mathieu Aucejo <mathieu.aucejo@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
